@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @uchewhispers
+- 👀 I’m interested in Javascript, Python, etc
+- 🌱 I’m currently learning both Javascript and Python
+- 💞️ I’m looking to collaborate on Javascript related projects
+- 📫 How to reach me via email: uchewhispers@live.com
